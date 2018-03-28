@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBase Android</string>
+    <string name="default_notification_channel_id">1111</string>
+</resources>
